@@ -1,6 +1,6 @@
 ////////////////////
 // Author: Jimmy
-// Description: game object for handling events and startup
+// Description: game object for handling events and startup with the renderer only
 // Version: 1
 ////////////////////
 

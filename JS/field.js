@@ -1,6 +1,6 @@
 ////////////////////
 // Author: Jimmy
-// Description: game prototype
+// Description: prototype for handling the field operations
 // Version: 1
 ////////////////////
 
